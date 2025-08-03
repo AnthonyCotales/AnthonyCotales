@@ -10,8 +10,6 @@ I'm passionate about technology and how it can be used to build cool, meaningful
 - Exploring open-source projects and personal mini-projects
 - Building graphical user interfaces (GUIs) with tools like Tkinter and PyQt
   
-### 📫 You can reach me through ton.cotales@gmail.com
-
 ### 🛠️ Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -47,8 +45,9 @@ I'm passionate about technology and how it can be used to build cool, meaningful
 
 ---
 
-> “Forever curious, always growing.” 🧠
-
+### 📫 How to reach me:
+- [Email](mailto:ton.cotales@gmail.com)
+  
 Thanks for visiting my profile!
 
 <!--
